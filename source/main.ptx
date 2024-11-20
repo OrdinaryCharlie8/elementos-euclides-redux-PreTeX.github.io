@@ -6,7 +6,7 @@
 
   <book xml:id="my-great-book">
     <title>Solucionario Elementos Euclides Redux</title>
-    <subtitle>Este es un solucionario para todo aquel interesado en aprender Geometría Euclideana del Libro Euclid's Elements Redux de Callahan</subtitle>
+    <subtitle>Solucionario del Libro Euclid's Elements Redux de Callahan</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
