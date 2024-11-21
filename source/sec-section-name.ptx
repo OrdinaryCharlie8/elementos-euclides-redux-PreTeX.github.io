@@ -3,6 +3,16 @@
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Preposición 1</title>
 
+  <figure>
+            <caption>Hatchling</caption>
+            <image source="\Images\Proposition 1.1.svg"/>
+  </figure>
+
+  <exercise> Exercise 1. If the segments \overline{AF}and \overline{BF} are constructed, prove that the figure \boxdot ACBF is a rhombus. 
+    <solution> Proof. Because A is the center of the circle \Circle A, \overline{AF}=\overline{AB} [Def. 1.33]. Because B is the center of the circle \Circle B, \overline{BF}=\overline{AB} [Def. 1.33]. Since \overline{AF}=\overline{BF}=\overline{AB}=\overline{AC}=\overline{BC}, it follows that \boxdot ACBF is a rhombus.
+    </solution> 
+  </exercise>
+
   <p> Text of section. </p>
 
 </section>
